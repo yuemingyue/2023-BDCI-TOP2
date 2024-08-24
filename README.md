@@ -1,3 +1,5 @@
+比赛链接：https://www.datafountain.cn/competitions/979
+
 ## 一.环境依赖说明
 
 #### 1.镜像来源：
